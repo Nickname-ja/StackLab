@@ -76,7 +76,7 @@ bool task(char* str)
 		}
 		++c;
 	}
-	if (!stack.empty())
+	if (!stack.empty() || wait_term)
 		flag = false;
 	return flag;
 }

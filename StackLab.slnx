@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="StackLab/StackLab.vcxproj" />
+  <Project Path="StackLab/StackLab.vcxproj" Id="06dde971-9955-4e1f-854b-c8759ca9fbc4" />
 </Solution>
